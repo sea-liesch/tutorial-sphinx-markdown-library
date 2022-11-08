@@ -2,8 +2,8 @@
 
 ## Installation
 
-To install Lumache:
+In order to install Lumache:
 
 ```console
-(.venv) $ pip insetall lumache
+(.venv) $ pip install lumache
 ```
